@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I’m Raphlawren
+I’m a Master’s student in Computer Science (Machine Learning & AI) with a background in Economics.  
+I’m passionate about geospatial forecasting, data science, and MLOps.
 
-<!--
-**Raphlawren/Raphlawren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently working on: **Forecasting 2D shapes over time**  
+💡 Exploring: **Prophet, QGIS, MLflow, Feast, Pinecone**  
+🎯 Looking for: **Data Scientist roles (open to remote/relocation)**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Skills & Tools
+- 💻 **Languages:** Python, SQL
+- 📦 **ML & MLOps:** Prophet, MLflow, Feast, Pinecone
+- 🌍 **GIS:** QGIS, Geospatial Analysis
+- 📊 **Data Analysis:** Pandas, Scikit-learn, Visualization (Matplotlib)
+
+
+### 🚀 Featured Projects
+- [📐 2D-Shape-Prediction](https://github.com/Raphlawren/2D-Shape-prediction))  
+  *Forecasting evolving shapes using Prophet and radial sampling (paper in progress)*
+
+- [📊 Database-Management-System-Tools](https://github.com/Raphlawren/Database-Management-System-Tools)
+  *Quantitative analysis of DBMS tools with feature selection & experiment tracking*
+
+- [🌦️ Rainfall Prediction Classifier](https://github.com/Raphlawren/Rainfall_Prediction_Classifier)
+  *Machine learning model to predict rainfall using historical weather data*
+
+  ### 📫 Let’s Connect
+- [LinkedIn](www.linkedin.com/in/raphael-farodoye-81035b28b)
+- [GitHub](https://github.com/Raphlawren)
+- Email: Raphaelfarodoye01@gmail.com
