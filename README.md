@@ -10,7 +10,7 @@ I’m passionate about geospatial forecasting, data science, and MLOps.
 
 ### 🛠️ Skills & Tools
 - 💻 **Languages:** Python, SQL
-- 📦 **ML & MLOps:** Prophet, MLflow, Feast, Pinecone
+- 📦 **ML & MLOps:** Prophet, MLflow, Feast, Pinecone, Tensorflow, Neural Networks
 - 🌍 **GIS:** QGIS, Geospatial Analysis
 - 📊 **Data Analysis:** Pandas, Scikit-learn, Visualization (Matplotlib)
 
