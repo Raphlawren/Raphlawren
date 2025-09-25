@@ -22,8 +22,8 @@ I’m passionate about geospatial forecasting, data science, and MLOps.
 - [📊 Database-Management-System-Tools](https://github.com/Raphlawren/Database-Management-System-Tools)
   *Quantitative analysis of DBMS tools with feature selection & experiment tracking*
 
-- [🌦️ Rainfall Prediction Classifier](https://github.com/Raphlawren/Rainfall_Prediction_Classifier)
-  *Machine learning model to predict rainfall using historical weather data*
+- [Handwritten Digit Recognition Classifier](https://github.com/Raphlawren/Handwritten-Digit-Recognition))
+  *Machine Learning with neural network to recognize handwritten digits*
 
   ### 📫 Let’s Connect
 - [LinkedIn](www.linkedin.com/in/raphael-farodoye-81035b28b)
