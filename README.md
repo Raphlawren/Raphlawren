@@ -16,14 +16,14 @@ I’m passionate about geospatial forecasting, data science, and MLOps.
 
 
 ### 🚀 Featured Projects
+- [Chronic_Kidney_Prediction using Case-Based-Prediction](Case-Based-Reasoning)   
+  *Predicting new patients who has Chronic Kindey disease using similiarity search
+
 - [📐 2D-Shape-Prediction](https://github.com/Raphlawren/2D-Shape-prediction))  
   *Forecasting evolving shapes using Prophet and radial sampling (paper in progress)*
 
 - [📊 Database-Management-System-Tools](https://github.com/Raphlawren/Database-Management-System-Tools)
   *Quantitative analysis of DBMS tools with feature selection & experiment tracking*
-
-- [Handwritten Digit Recognition Classifier](https://github.com/Raphlawren/Handwritten-Digit-Recognition))
-  *Machine Learning with neural network to recognize handwritten digits*
 
   ### 📫 Let’s Connect
 - [LinkedIn](www.linkedin.com/in/raphael-farodoye-81035b28b)
