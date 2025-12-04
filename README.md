@@ -17,7 +17,7 @@ I’m passionate about geospatial forecasting, data science, and MLOps.
 
 ### 🚀 Featured Projects
 - [Chronic_Kidney_Prediction using Case-Based-Prediction](Case-Based-Reasoning)   
-  *Predicting new patients who has Chronic Kindey disease using similiarity search
+  Predicted new patients who has Chronic Kindey disease using similiarity search of patients in the database
 
 - [📐 2D-Shape-Prediction](https://github.com/Raphlawren/2D-Shape-prediction))  
   *Forecasting evolving shapes using Prophet and radial sampling (paper in progress)*
