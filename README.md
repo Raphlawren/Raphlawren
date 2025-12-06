@@ -10,9 +10,14 @@ I’m passionate about geospatial forecasting, data science, and MLOps.
 
 ### 🛠️ Skills & Tools
 - 💻 **Languages:** Python, SQL
-- 📦 **ML & MLOps:** Prophet, MLflow, Feast, Pinecone, Tensorflow, Neural Networks
-- 🌍 **GIS:** QGIS, Geospatial Analysis
-- 📊 **Data Analysis:** Pandas, Scikit-learn, Visualization (Matplotlib)
+- 🧠 **Machine Learning & Deep Learning:** scikit-learn, TensorFlow/Keras, Prophet
+- 🧩 **Deep Learning (Architectures):** CNN, RNN (LSTM/GRU), Transformers
+- 🗣️ **NLP:** tokenization, embeddings (Word2Vec, GloVe), sequence modeling, attention/Transformer-based NLP
+- 🔁 **MLOps & Experiment Tracking:** MLflow, DagsHub
+- 🧱 **Data Infrastructure:** Feast (Feature Store), Pinecone (Vector Database), MySQL, SQLite
+- 📊 **Data & Visualization:** pandas, NumPy, Matplotlib, Seaborn, Dash, Plotly
+- 🌍 **GIS / Geospatial:** QGIS, geospatial analysis
+
 
 
 ### 🚀 Featured Projects
