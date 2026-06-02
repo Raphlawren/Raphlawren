@@ -21,7 +21,7 @@ I’m passionate about geospatial forecasting, data science, and MLOps.
 
 
 ### 🚀 Featured Projects
-- [Convolutional Neural Network (CNN) classification model to classify diseases on potato leaves](https://github.com/Raphlawren/Potato-Disease)
+- [Convolutional Neural Network (CNN) classification model to classify diseases on potato leaves](https://github.com/Raphlawren/Potato-Disease)  
   I built an end-to-end Convolutional Neural Network (CNN) classification model to classify diseases on potato leaves, to predict whether they have early blight, late blight or are healthy, and deployed the model.
 
 
